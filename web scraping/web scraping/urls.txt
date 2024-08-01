@@ -1,0 +1,22 @@
+https://ieg.worldbankgroup.org/
+https://ieg.worldbankgroup.org/about-us
+https://ieg.worldbankgroup.org/experts # added sub page URL
+https://ieg.worldbankgroup.org/methodology # added sub page URL
+https://ieg.worldbankgroup.org/jobs # added sub page URL
+https://ieg.worldbankgroup.org/access_to_information # added sub page URL
+https://ieg.worldbankgroup.org/stakeholder-survey # added sub page URL
+https://ieg.worldbankgroup.org/ieg-evaluation-methods-advisory-function # added sub page URL
+https://ieg.worldbankgroup.org/topic/evaluation-capacity-development # added sub page URL
+https://ieg.worldbankgroup.org/external-reviews # added sub page URL
+https://ieg.worldbankgroup.org/topics
+https://ieg.worldbankgroup.org/evaluations
+https://ieg.worldbankgroup.org/ieg-search # added sub page URL
+https://ieg.worldbankgroup.org/recent-report-page # added sub page URL
+https://ieg.worldbankgroup.org/ieg-search-icrr # added sub page URL
+https://ieg.worldbankgroup.org/country-evaluation # added sub page URL
+https://ieg.worldbankgroup.org/upcoming-reports-page # added sub page URL
+https://ieg.worldbankgroup.org/management-action-record # added sub page URL
+https://ieg.worldbankgroup.org/blogs
+https://ieg.worldbankgroup.org/podcast
+https://ieg.worldbankgroup.org/data
+https://ieg.worldbankgroup.org/methods-resources
